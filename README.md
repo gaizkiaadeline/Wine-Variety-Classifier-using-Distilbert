@@ -36,7 +36,7 @@ Hyperparameters were tuned to find the optimal values for model performance, wit
 
 - The model achieved an accuracy of 91%, indicating strong performance in classifying wines based on the expert descriptions.
 - Performance across classes was consistent, with the Chardonnay class showing the best results in terms of precision, recall, and F1 score.
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/d8485125-f75e-41a0-b705-5324cab0a1e8)
 
 
 # Conclusion:
