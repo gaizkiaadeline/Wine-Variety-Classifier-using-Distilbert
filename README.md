@@ -17,7 +17,7 @@ With the vast diversity in wine types, distinguishing between varieties based on
 - Only the relevant columns, "description" (containing the text) and "variety" (representing the wine type), were retained.
 - Tokenization was done using the tokenizer from the DistilBERT model to convert text data into input IDs and attention masks.
 
-Modeling:
+**Modeling:**
 
 - DistilBERT (uncased) was used as the base model for text classification, with the classification head fine-tuned to output predictions for wine varieties.
 - The model was fine-tuned and evaluated using hyperparameters such as learning rate, batch size, dropout rate, and the number of epochs.
