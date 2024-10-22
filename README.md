@@ -44,3 +44,5 @@ The use of DistilBERT proved effective for the task of classifying wine varietie
 
 
 Link Dataset : https://www.kaggle.com/datasets/zynicide/wine-reviews
+
+![Top 3  {'rouge1' Score(precision=0 15267175572519084, recall=0 5405405405405406, fmeasure=0 23809523809523808), 'rouge2' Score(precision=0 06153846153846154, recall=0 2222222222222222, fmeasure=0](https://github.com/user-attachments/assets/b729ac09-6bff-44fe-9b13-f6d18a852158)
